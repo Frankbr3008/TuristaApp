@@ -1,0 +1,41 @@
+[
+    {
+        "place_name": "Piedra del Peñol",
+        "place_descripcion": "La Piedra de El Peñol, es solo una pequeña parte del Batolito Antioqueño, formada en el interior de la corteza terrestre hace unos 80 millones de años y llevada lentamente a la superficie por acción de la erosión y los esfuerzos tectónicos.Monolito de 220 metros de altura con mirador a todo el embalse de Guatapé",
+
+        "place_descripcion_larga": "Clark Kent, Kal-El",
+        "stars": "Cinco estrellas",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Piedra_y_Embalse_del_Pe%C3%B1ol_desde_dron_05.jpg/1920px-Piedra_y_Embalse_del_Pe%C3%B1ol_desde_dron_05.jpg"
+    },
+    {
+        "place_name": "Malecón",
+        "place_descripcion": "Parque lineal en la orilla del embalse de Guatapé.  Otro excelente plan en Guatapé es caminar por el malecón, allí vas a encontrar varios restaurantes, y agencias u operadores que te ofrecen actividades náuticas como Kayaking y Stand Up Paddle Board, una variante del surf que no necesita olas.",
+        "place_descripcion_larga": "Bruce Wayne",
+        "stars": "Cinco estrellas",
+        "imageUrl": "https://turismoatiempo.com/wp-content/uploads/2019/09/Guatape-1-768x575.jpg"
+    },
+    {
+        "place_name": "Calle del Recuerdo",
+        "place_descripcion": "Patrimonio urbanístico y arquitectónico del municipio de Guatapé.    La calle del Recuerdo es una réplica de una calle típica que fue inundada por el embalse en el antiguo pueblo. Es considerada como patrimonio urbanístico y arquitectónico del pueblo. Para llegar a ella solo debes caminar una cuadra desde el Parque principal.",
+
+        "place_descripcion_larga": "Diana Prince",
+        "stars": "Cinco estrellas",
+        "imageUrl": "https://www.guatapecolombia.net/wp-content/uploads/2019/05/fuente-calle-del-recuerdo-e1557883674278.jpg"
+    },
+    {
+        "place_name": "Plaza del Zócalo",
+        "place_descripcion": "Plazoleta adornada por los tradicionales zócalos que retratan la tradición de Guatapé.   La Plazoleta del Zócalo se encuentra a una cuadra del parque principal de Guatapé, y allí puedes encontrar viviendas y edificios coloridos, algunos cafés y varios locales de artesanías.",
+        "place_descripcion_larga": "Barry Allen, Jay Garrick, Wally West",
+        "stars": "Cinco estrellas",
+        "imageUrl": "https://viajareacolombia.com/wp-content/uploads/2020/07/1_plazoleta-de-los-zocalos-1000x563.jpg"
+    },
+    {
+        "place_name": "Comfama Guatapé",
+        "place_descripcion": "Parque recreativo con atracciones al aire libre y en la represa.  Aquí confluyen los extraordinarios pigmentos de la naturaleza y las historias de un pueblo que también baila en color.\n\nBotes, kayaks, kioscos, flotadores, toboganes, bicicletas acuáticas y más de 7,6 hectáreas habitadas por ardillas, guacharacas, gansos y sinsontes están dispuestos para tu goce, aprendizaje y encuentro anhelado, por supuesto, con las medidas de bioseguridad necesarias para garantizar tu cuidado y sano disfrute.",
+
+
+        "place_descripcion_larga": "Hal Jordan",
+        "stars": "Cuatro estrellas",
+        "imageUrl": "https://telemedellin.tv/wp-content/uploads/2020/09/COMFAMA.jpg"
+    }
+]
