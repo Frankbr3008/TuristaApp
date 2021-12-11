@@ -1,0 +1,39 @@
+{
+  "guatape": [
+    {
+      "name": "Piedra del Peñol",
+      "short_d": "Monolito de 220 metros de altura con mirador a todo el embalse de Guatapé",
+      "large_d": "La Piedra del Peñol es un enorme monolito de 220 metros de altura, ubicado en Guatapé, Antioquia, que pesa 60.000 toneladas, y un posee un diámetro de 100 metros, que en su interior aloja más de 650 escalones que culminan en uno de los miradores más increíbles de Colombia.",
+      "stars": "Cinco estrellas",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Piedra_y_Embalse_del_Pe%C3%B1ol_desde_dron_05.jpg/1920px-Piedra_y_Embalse_del_Pe%C3%B1ol_desde_dron_05.jpg"
+    },
+    {
+      "name": "Malecón",
+      "short_d": "Parque lineal en la orilla del embalse de Guatapé",
+      "large_d": "Parque lineal de dos kilómetros sobre el embalse de Guatapé, que se convierten en unos 19 mil metros de espacio público, que une el municipio con el agua represada y permite disfrutar de la oferta turística del lugar.",
+      "stars": "Cinco estrellas",
+      "imageUrl": "https://turismoatiempo.com/wp-content/uploads/2019/09/Guatape-1-768x575.jpg"
+    },
+    {
+      "name": "Calle del Recuerdo",
+      "short_d ": "Patrimonio urbanístico y arquitectónico del municipio de Guatapé",
+      "large_d ": "La Calle del recuerdo es considerada como un patrimonio urbanístico y arquitectónico del municipio de Guatapé, pues representa una de las antiguas calles típicas que fueron inundadas cuando se llevó a cabo la creación del embalse.",
+      "stars": "Cuatro estrellas",
+      "imageUrl": "https://www.guatapecolombia.net/wp-content/uploads/2019/05/fuente-calle-del-recuerdo-e1557883674278.jpg"
+    },
+    {
+      "name": "Plaza del Zócalo",
+      "short_d": "Plazoleta adornada por los tradicionales zócalos que retratan la tradición de Guatapé",
+      "large_d": "Se encuentra a una cuadra del parque principal de Guatapé, y allí puedes encontrar viviendas y edificios coloridos, algunos cafés y varios locales de artesanías. En el centro hay unas graderías de concreto que conforman la plazoleta, adornadas por los tradicionales zócalos que retratan la hermosa tradición de Guatapé. ",
+      "stars": "Cinco estrellas",
+      "imageUrl": "https://viajareacolombia.com/wp-content/uploads/2020/07/1_plazoleta-de-los-zocalos-1000x563.jpg"
+    },
+    {
+      "name": "Comfama Guatapé",
+      "short_d": "Parque recreativo con atracciones al aire libre y en la represa",
+      "large_d": "Parque ubicado cerca al centro de Guatapé con atracciones como Aguaventura (base acuática con juegos de coordinación, motricidad, destreza y aventura), los botes, tobogán acuático, kayacs, asaderos, kioscos y barcos asoleadores. ",
+      "stars": "Cuatro estrellas",
+      "imageUrl": "https://telemedellin.tv/wp-content/uploads/2020/09/COMFAMA.jpg"
+    }
+  ]
+}

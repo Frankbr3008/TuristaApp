@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GuatapeV4</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Sync Preferences -->
+    <string name="notifications">Notificaciones</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_list">Lista</string>
+    <string name="title_detail">Detalle</string>
+    <string name="title_preference">Preferencias</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="preferences">Preferencias</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="piedra_del_pe_ol">Piedra del Peñol</string>
+    <string name="la_piedra_del_pe_ol_es_un_enorme_monolito_de_220_metros_de_altura_ubicado_en_guatap_antioquia_que_pesa_60_000_toneladas_y_un_posee_un_di_metro_de_100_metros_que_en_su_interior_aloja_m_s_de_650_escalones_que_culminan_en_uno_de_los_miradores_m_s_incre_bles_de_colombia">La Piedra del Peñol es un enorme monolito de 220 metros de altura, ubicado en Guatapé, Antioquia, que pesa 60.000 toneladas, y un posee un diámetro de 100 metros, que en su interior aloja más de 650 escalones que culminan en uno de los miradores más increíbles de Colombia.</string>
+    <string name="cinco_estrellas">Cinco estrellas</string>
+</resources>
